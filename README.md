@@ -31,9 +31,6 @@
       <a href="https://twitter.com/Daffaapermana" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="daffa" height="30"/></a>
-    ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=daffa03x&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
       <br>
     </p>
   </samp>
